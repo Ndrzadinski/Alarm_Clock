@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetDS1_10 Pin=R14-270
+Change Component Footprint: Designator=Designator16 Old Footprint=SW New Footprint=12411602
+Change Component Footprint: Designator=Designator17 Old Footprint=SW New Footprint=12411602
+Change Component Footprint: Designator=Designator18 Old Footprint=SW New Footprint=12411602
+Change Component Footprint: Designator=Designator19 Old Footprint=SW New Footprint=12411602
+Change Component Comment : Designator=Designator16 Old Comment=Comment New Comment=H
+Change Component Comment : Designator=Designator18 Old Comment=Comment New Comment=M
+Change Component Comment : Designator=Designator17 Old Comment=Comment New Comment=T
+Change Component Comment : Designator=Designator19 Old Comment=Comment New Comment=TempSelect
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R17
+Change Component Designator: OldDesignator=Designator16 NewDesignator=S2
+Change Component Designator: OldDesignator=Designator17 NewDesignator=S3
+Change Component Designator: OldDesignator=Designator18 NewDesignator=S4
+Change Component Designator: OldDesignator=Designator19 NewDesignator=S6
+Change component parameters: Designator = "Designator16" ("S2"); Footprint = "SW"; UniqueID = "\MOXCXVUI" ("\MOXCXVUI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator17" ("S3"); Footprint = "SW"; UniqueID = "\QVBQAITI" ("\QVBQAITI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator18" ("S4"); Footprint = "SW"; UniqueID = "\NZAWROCA" ("\NZAWROCA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator19" ("S6"); Footprint = "SW"; UniqueID = "\JTFTANTH" ("\JTFTANTH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S1(12411602)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S5(12411602)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.schurter.com/en/datasheet/PMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1241.1602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "693-1241.1602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/12411602?qs=JHn%2F0Af%2Fl5EgRnV0HUH1SQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R14-1
+Added Pin To Net: NetName=NetR7_1 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=NetD5_2 Pin=S2-3
+Added Pin To Net: NetName=VCC Pin=S3-3
+Added Pin To Net: NetName=NetD5_2 Pin=S3-4
+Added Pin To Net: NetName=NetD5_2 Pin=S4-3
+Added Pin To Net: NetName=VCC Pin=S5-3
+Added Pin To Net: NetName=D2 Pin=S5-4
+Added Pin To Net: NetName=D13 Pin=S6-3
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component R10
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component R17
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S1 A
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S2 H
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S3 T
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S4 M
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S5 A
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component S6 TempSelect

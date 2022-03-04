@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S7
+Add Component: Footprint Not Found CAPC1608X97N
+Add Component: Footprint Not Found CAPC1608X97N
+Add Component: Footprint Not Found ECS160836B2CKMTR
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Pin To Net: NetName=Net_7 Pin=-7
+Added Net: Name=Net_7
+Added Pin To Net: NetName=Net_8 Pin=-8
+Added Net: Name=Net_8
+Add Class Member: Failed to add class member : Component C10 22pF
+Add Class Member: Failed to add class member : Component C11 22pF
+Add Class Member: Failed to add class member : Component Y1 ECS-160-8-36B2-CKM-TR

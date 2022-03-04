@@ -1,0 +1,12 @@
+Remove Pin=S2-4 From Net=D8
+Remove Pin=S4-4 From Net=D7
+Remove Pin=S6-4 From Net=VCC
+Change Component Footprint: Designator=C3 Old Footprint=POLAR0.8 New Footprint=C1206
+Change Component Footprint: Designator=C7 Old Footprint=POLAR0.8 New Footprint=C1206
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=RT1 Old Footprint=THRMC1005X55N New Footprint=AXIAL-0.3

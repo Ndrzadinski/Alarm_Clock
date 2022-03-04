@@ -1,0 +1,39 @@
+Change Footprint: Footprint Not Found THRMC1005X55N
+Change Component Comment : Designator=Designator15 Old Comment=Comment New Comment=ERT-J0EG103HA
+Change Component Designator: OldDesignator=Designator15 NewDesignator=RT1
+Change component parameters: Designator = "Designator15" ("RT1"); Footprint = "AXIAL-0.3"; UniqueID = "\HMDSPGDW" ("\HMDSPGDW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ERT-J0EG103HA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ert-j0eg103ha/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA6/548517.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERT-J0EG103HA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERT-J0EG103HA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERT-J0EG103HA"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 12411602
+Add Component: Footprint Not Found 12411602
+Add Component: Footprint Not Found 12411602
+Add Component: Footprint Not Found 12411602
+Add Component: Footprint Not Found 12411602
+Add Component: Footprint Not Found 12411602
+Added Pin To Net: NetName=A1 Pin=RT1-1
+Added Pin To Net: NetName=3v3 Pin=RT1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S2-4
+Add Pin To Net: Unknown Pin: Pin S3-3
+Add Pin To Net: Unknown Pin: Pin S3-4
+Add Pin To Net: Unknown Pin: Pin S4-3
+Add Pin To Net: Unknown Pin: Pin S4-4
+Add Pin To Net: Unknown Pin: Pin S5-3
+Add Pin To Net: Unknown Pin: Pin S5-4
+Add Pin To Net: Unknown Pin: Pin S6-3
+Add Pin To Net: Unknown Pin: Pin S6-4
+Added Member To Class: ClassName=Alarm_Clock_Schematic Member=Component RT1 ERT-J0EG103HA
+Add Class Member: Failed to add class member : Component S1 A
+Add Class Member: Failed to add class member : Component S2 H
+Add Class Member: Failed to add class member : Component S3 T
+Add Class Member: Failed to add class member : Component S4 M
+Add Class Member: Failed to add class member : Component S5 A
+Add Class Member: Failed to add class member : Component S6 TempSelect
